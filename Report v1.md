@@ -44,7 +44,12 @@ Located in Fort Bend, the wealthiest county in Texas.
 |Walk Score®*               |     10      |    -     |     41  ±27|     49  ±21|
 
 
+### Key Takeaways
 
+1. One of the newer facilities in the area.
+2. Size is appropriate for a facility that offers IL, AL, and MC units.
+3. DnB does not report any red flags.
+4. Lower occupancy for young facilities is expected and we should ride the wave.
 
 --------
 
