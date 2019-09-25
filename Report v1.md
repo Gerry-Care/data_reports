@@ -1,3 +1,31 @@
+### Houston
+
+We are tracking a total of 315 facilities in Houston:
+
+
+![alt text][fig1]
+
+[fig1]: https://github.com/Gerry-Care/pic_repo/blob/master/houston_market_share.png?raw=true "Figure 1. Houston Market Share."
+
+For the purposes of this analysis, NC is excluded.
+
+-------
+
+
+### Delaney intro
+
+Delaney charges rent plus care fees.
+
+DnB does not report any judgements, liens, suits or UCC filings for Delaney.
+
+There is no record on staff numbers. 
+
+Risk, viability, delinquency, and failure scores are all reported as Moderate and are to be used for Decision Support only. They are not sufficiently robust. Failure scores reflect how likely is a company to seek legal relief from creditors.
+
+Located in Fort Bend, the wealthiest county in Texas.
+
+-------
+
 ### Summary table
 
 |                           |   Delaney   | Comp Set |   County   |    Metro   |
@@ -15,33 +43,7 @@
 |MC total units, mean       |     36      |    28    |     25  ±10|     24   ±9|
 |Walk Score®*               |     10      |    -     |     41  ±27|     49  ±21|
 
---------
 
-### Houston
-
-We are tracking a total of 315 facilities in Houston:
-
-
-![alt text][fig1]
-
-[fig1]: https://github.com/Gerry-Care/pic_repo/blob/master/houston_market_share.png?raw=true "Figure 1. Houston Market Share."
-
-For the purposes of this analysis, NC is excluded.
-
-
-
-
-### Delaney intro
-
-Delaney charges rent plus care fees.
-
-DnB does not report any judgements, liens, suits or UCC filings for Delaney.
-
-There is no record on staff numbers. 
-
-Risk, viability, delinquency, and failure scores are all reported as Moderate and are to be used for Decision Support only. They are not sufficiently robust. Failure scores reflect how likely is a company to seek legal relief from creditors.
-
-Located in Fort Bend, the wealthiest county in Texas.
 
 
 --------
