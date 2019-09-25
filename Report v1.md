@@ -158,8 +158,10 @@ LCS operates 3 properties in Houston, TX metro area and Delaney at Parkway Lakes
 ### Data Asks
 
 1. Detailed pricing on IL units, AL units, MC units.
+
   1.1. Add-on cost models for AL and MC units.
   1.2. What is included into their prices per each care tier.
+  
 2. Ativities.
 3. Events.
 4. Pharmacy hours.
