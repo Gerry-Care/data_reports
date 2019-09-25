@@ -153,3 +153,16 @@ Expanding the circle, facilities in Fort Bend, including Majority NC facilities,
 
 LCS operates 3 properties in Houston, TX metro area and Delaney at Parkway Lakes is the only property they manage in Fort Bend. The two properties in larger Houston area are 8 years old and just over 1 year old. The younger of the two is 1.5 hour drive away from Delaney at Parkway Lakes. It is located by Nassau Bay whereas Delaney at Parkway Lakes is landlocked. 
 
+--------
+
+### Data Asks
+
+1. Detailed pricing on IL units, AL units, MC units.
+  1.1. Add-on cost models for AL and MC units.
+  1.2. What is included into their prices per each care tier.
+2. Ativities.
+3. Events.
+4. Pharmacy hours.
+5. Names/links to their community iPhone/Android apps.
+
+While not particularly a Data Ask, I'd love to hear **what's up with the absurdly low Walking Score**.
