@@ -1,3 +1,21 @@
+### Summary table
+
+|                           |   Delaney   | Comp Set |   County   |    Metro   |
+|---------------------------|-------------|----------|------------|------------|
+|Age, mean                  |   >2 yo     |   8.7    |   11.78    |    15.49   |
+|LCS                        |      1      |    1     |     1      |      3     |
+|Price IL, mean             |   \$3,954   | \$3,509  |   \$3,271  |  \$3,172   |
+|Price AL, mean             |     -       | \$5,383  |   \$4,933  |  \$4,966   |
+|Occupancy IL, mean         |    73.2%    |   74.0%  |    82.5%   |    83.1%   |
+|Occupancy AL, mean         |     -       |   82.4%  |    71.2%   |    79.1%   |
+|Comp'ble fac-s units, mean |    211      |    -     |    180     |     217    |
+|All fac-s units, mean      |    211      |    120   |    114     |     102    |
+|IL total units, mean       |    120      |    138   |    117  ±12|    125 ±137|
+|AL total units, mean       |     55      |    48    |     38  ±17|     55  ±29|
+|MC total units, mean       |     36      |    28    |     25  ±10|     24   ±9|
+|Walk Score®*               |     10      |    -     |     41  ±27|     49  ±21|
+
+--------
 
 ### Houston
 
@@ -128,22 +146,3 @@ Expanding the circle, facilities in Fort Bend, including Majority NC facilities,
 
 LCS operates 3 properties in Houston, TX metro area and Delaney at Parkway Lakes is the only property they manage in Fort Bend. The two properties in larger Houston area are 8 years old and just over 1 year old. The younger of the two is 1.5 hour drive away from Delaney at Parkway Lakes. It is located by Nassau Bay whereas Delaney at Parkway Lakes is landlocked. 
 
-
---------
-
-### Summary table
-
-|                           |   Delaney   | Comp Set |   County   |    Metro   |
-|---------------------------|-------------|----------|------------|------------|
-|Age, mean                  |   >2 yo     |   8.7    |   11.78    |    15.49   |
-|LCS                        |      1      |    1     |     1      |      3     |
-|Price IL, mean             |   \$3,954   | \$3,509  |   \$3,271  |  \$3,172   |
-|Price AL, mean             |     -       | \$5,383  |   \$4,933  |  \$4,966   |
-|Occupancy IL, mean         |    73.2%    |   74.0%  |    82.5%   |    83.1%   |
-|Occupancy AL, mean         |     -       |   82.4%  |    71.2%   |    79.1%   |
-|Comp'ble fac-s units, mean |    211      |    -     |    180     |     217    |
-|All fac-s units, mean      |    211      |    120   |    114     |     102    |
-|IL total units, mean       |    120      |    138   |    117  ±12|    125 ±137|
-|AL total units, mean       |     55      |    48    |     38  ±17|     55  ±29|
-|MC total units, mean       |     36      |    28    |     25  ±10|     24   ±9|
-|Walk Score®*               |     10      |    -     |     41  ±27|     49  ±21|
